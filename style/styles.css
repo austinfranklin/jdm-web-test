@@ -1,0 +1,29 @@
+/* applies to all p tags */
+p {
+    color: rgb(255, 98, 0);
+    background-color: blue;
+}
+
+/* applies to all img tags */
+img {
+    width: 40%;
+    height: 40%;
+}
+
+/* # applies to a unique id */
+#image-container {
+    background-color: rgb(255, 98, 0);
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    
+}
+
+/* . applies to a unique class */
+.text-new {
+    color: rgb(239, 235, 232);
+    font-size: 24px;
+    text-align: center;
+}
+
+/* curly bracket on Mac option+shift+{ */
